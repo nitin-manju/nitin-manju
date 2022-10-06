@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitin Manju
-- 👀 I’m interested in Software Development, System Design, Cloud Native Development, Microservices 
-- 🌱 I’m currently working as a Software Developer and Technology Advisor and aspire to be a teacher
+- 👀 I’m interested in Software Development, System Design, Cloud Native Development, Microservices. 
+- 🌱 I’m currently working as a Software Developer and Technology Advisor. I aspire to be a teacher.
 - 💞️ I often blog on [Medium](https://medium.com/@nitinmanju)
 - 📫 Reach out to me on [Twitter](https://twitter.com/NitinManju) or [LinkedIn](https://www.linkedin.com/in/nitin-manju-14aa811a/)
